@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
             "name": "Launch factorialFunction",
             "request": "launch",
             "mainClass": "factorialFunction",
