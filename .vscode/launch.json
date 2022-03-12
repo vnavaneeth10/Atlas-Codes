@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch factorialFunction",
+            "request": "launch",
+            "mainClass": "factorialFunction",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClaculateMult",
+            "request": "launch",
+            "mainClass": "ClaculateMult",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumFunction",
+            "request": "launch",
+            "mainClass": "SumFunction",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
             "name": "Launch DiamondPattern",
             "request": "launch",
             "mainClass": "DiamondPattern",
