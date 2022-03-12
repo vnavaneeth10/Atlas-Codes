@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromicPattern",
+            "request": "launch",
+            "mainClass": "PalindromicPattern",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
             "name": "Launch NumberPyramid",
             "request": "launch",
             "mainClass": "NumberPyramid",
