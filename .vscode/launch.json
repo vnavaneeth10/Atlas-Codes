@@ -6,6 +6,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+
+
+
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -226,6 +236,6 @@
             "request": "launch",
             "mainClass": "sample2",
             "projectName": "CODING PRACTICE_746cd2b4"
-        }
-    ]
+        },
+        
 }
