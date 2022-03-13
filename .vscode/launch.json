@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NumberAppearingTwice",
+            "request": "launch",
+            "mainClass": "NumberAppearingTwice",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BricksProblem",
+            "request": "launch",
+            "mainClass": "BricksProblem",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayLists",
             "request": "launch",
             "mainClass": "ArrayLists",
