@@ -32,7 +32,7 @@ class Candie {
             // Driver Code
       public static void main(String[] args)
       {
-        int n = 7, k = 8;
+        int n = 5, k = 3;
         candies(n, k);
       }
     }

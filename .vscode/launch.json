@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RepeatElement",
+            "request": "launch",
+            "mainClass": "RepeatElement",
+            "projectName": "CODING PRACTICE_746cd2b4"
+        },
+        {
+            "type": "java",
             "name": "Launch Candie",
             "request": "launch",
             "mainClass": "Candie",
